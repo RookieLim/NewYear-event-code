@@ -15,7 +15,7 @@
     <img src="https://user-images.githubusercontent.com/85553325/155829799-cf60dd48-fec4-48e3-aa45-f9dc3684e63b.png" width="380px" height="640px">
     <h1>1.New Year event code</h1>
     <h3> 📌New Year rice cake and comment sharing event</h3>
-    <p>Project Period : 2022. 01. 30~ 2022. 01. 30<p>
+    <p>Project Period : 2022. 01. 29~ 2022. 01. 30<p>
     <p> <span style="color:orange" >"New Year sharing comment site based on spartacoding club API"</span>
       <br>Sites that show rice cakes based on shared by user comment<br></p> 
     <h1>2.New Year event Site</h1>
