@@ -10,7 +10,6 @@
     <br><br>
     <strong>HTML,CSS,Javascript based site<a href="https://deokdam.spartacodingclub.kr/wBCS4QMpihAm/index.html"><br>Event code for New Year's Day</a></strong>
     <br><br>
-     
     Project URL : "https://deokdam.spartacodingclub.kr/wBCS4QMpihAm/index.html"
     <br><br>
     <img src="https://user-images.githubusercontent.com/85553325/155829799-cf60dd48-fec4-48e3-aa45-f9dc3684e63b.png" width="380px" height="640px">
